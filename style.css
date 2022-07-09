@@ -21,7 +21,14 @@ h1 {font-size: 2.5em;white-space: nowrap;}
 .retour {height: 50px;width: 50px;background: red;position: absolute;
 left:40px;top:50px;z-index: 1;}
 
-
+.fa-arrow-left{font-size: 2em;
+    color: black;
+    position: absolute;
+    top:50px;
+    left:50px;
+    height: 30px;
+    width: 30px;
+    transform: scale(1.2);}
 
 
 
