@@ -3330,31 +3330,7 @@ textarea.input-sm {
     height: auto
 }
 
-.form-group-sm .form-control {
-    height: 30px;
-    padding: 5px 10px;
-    font-size: 12px;
-    line-height: 1.5;
-    border-radius: 3px
-}
 
-.form-group-sm select.form-control {
-    height: 30px;
-    line-height: 30px
-}
-
-.form-group-sm select[multiple].form-control,
-.form-group-sm textarea.form-control {
-    height: auto
-}
-
-.form-group-sm .form-control-static {
-    height: 30px;
-    min-height: 32px;
-    padding: 6px 10px;
-    font-size: 12px;
-    line-height: 1.5
-}
 
 .input-lg {
     height: 46px;
@@ -3372,32 +3348,6 @@ select.input-lg {
 select[multiple].input-lg,
 textarea.input-lg {
     height: auto
-}
-
-.form-group-lg .form-control {
-    height: 46px;
-    padding: 10px 16px;
-    font-size: 18px;
-    line-height: 1.3333333;
-    border-radius: 6px
-}
-
-.form-group-lg select.form-control {
-    height: 46px;
-    line-height: 46px
-}
-
-.form-group-lg select[multiple].form-control,
-.form-group-lg textarea.form-control {
-    height: auto
-}
-
-.form-group-lg .form-control-static {
-    height: 46px;
-    min-height: 38px;
-    padding: 11px 16px;
-    font-size: 18px;
-    line-height: 1.3333333
 }
 
 .has-feedback {
@@ -3421,21 +3371,6 @@ textarea.input-lg {
     pointer-events: none
 }
 
-.form-group-lg .form-control+.form-control-feedback,
-.input-group-lg+.form-control-feedback,
-.input-lg+.form-control-feedback {
-    width: 46px;
-    height: 46px;
-    line-height: 46px
-}
-
-.form-group-sm .form-control+.form-control-feedback,
-.input-group-sm+.form-control-feedback,
-.input-sm+.form-control-feedback {
-    width: 30px;
-    height: 30px;
-    line-height: 30px
-}
 
 .has-success .checkbox,
 .has-success .checkbox-inline,
@@ -7819,7 +7754,7 @@ button.close {
 }
 
 .text-hide {
-    font: 0/0 a;
+    font: 0/0 ;
     color: transparent;
     text-shadow: none;
     background-color: transparent;
