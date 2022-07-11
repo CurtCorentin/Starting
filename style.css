@@ -256,4 +256,9 @@ h3 {font-size: 15px;    text-transform: uppercase;    font-weight: 700;    color
 .d-bloc a:hover .icon-xl{color: rgba(255, 255, 255, 1);}
 
 
-@media screen and (max-width:768px) {.colonnes{flex-direction: column;margin-left: 15%;}   .modal-body img{width: 70%;margin-left: 15%;margin-right: 15%;}}
+@media screen and (max-width:768px) {
+.colonnes{flex-direction: column;margin-left: 15%;}   
+.modal-body img{width: 70%;margin-left: 15%;margin-right: 15%;}
+.col-sm-4 li{padding-top: 14px;padding-bottom: 14px;}
+.col-sm-4 li a{padding-top: 14px;padding-bottom: 14px;}
+}
