@@ -30,6 +30,7 @@ header{padding-top: 20px;   padding-bottom: 20px;background: #F3976C}
 .col-sm-4 li{color:white;}
 
 
+h1 {font-size: 2.5em;white-space: nowrap;}
 
 
 
@@ -37,10 +38,27 @@ header{padding-top: 20px;   padding-bottom: 20px;background: #F3976C}
 
 
 
+form{width: 80%;margin-left: 10%;margin-right: 10%;background: red;}
 
-.form-group{width: 100%;background: red;}
+.form-group{width: 100%;}
 
 
+
+.retour {height: 50px;width: 50px;background: red;position: absolute;
+    left:40px;top:50px;z-index: 1;}
+    
+    .fa-arrow-left{font-size: 2em;
+        color: black;
+        position: absolute;
+        top:60px;
+        left:40px;
+        height: 30px;
+        width: 30px;
+        transform: scale(1.1);}
+    
+    
+    
+    
 
 
 
@@ -124,22 +142,6 @@ header{padding-top: 20px;   padding-bottom: 20px;background: #F3976C}
 
 
 
-h1 {font-size: 2.5em;white-space: nowrap;}
-
-.retour {height: 50px;width: 50px;background: red;position: absolute;
-left:40px;top:50px;z-index: 1;}
-
-.fa-arrow-left{font-size: 2em;
-    color: black;
-    position: absolute;
-    top:60px;
-    left:40px;
-    height: 30px;
-    width: 30px;
-    transform: scale(1.1);}
-
-
-
 
 
 body {margin: 0;
@@ -168,7 +170,7 @@ position: relative;}
 
 .blg1 {height: 500px;}
 
-.bloc-md {padding: 50px;}
+
 
 .b-parallax {background-attachment: fixed;}
 
