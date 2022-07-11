@@ -230,11 +230,11 @@ h3 {font-size: 15px;    text-transform: uppercase;    font-weight: 700;    color
 
 .bgc-white {background-color: #FFFFFF;}
 
-.bgc-atomic-tangerine {background-color: #F3976C;}
+.bgc-atomic-tangerine {background-color: orange;}
 
 .tc-white {color: #FFFFFF!important;}
 
-.btn-atomic-tangerine {background: #F3976C;    color: #FFFFFF!important;}
+.btn-atomic-tangerine {background: orange;    color: #FFFFFF!important;}
 
 .btn-atomic-tangerine:hover {background: #c27956!important;    color: #FFFFFF!important;}
 
