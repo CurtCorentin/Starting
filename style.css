@@ -180,7 +180,7 @@ position: relative;}
 
 
 
-.mg-md {margin-top: 10px;    margin-bottom: 20px;   font-weight: bold;font-size: 1.6em;}
+.mg-md {margin-top: 10px;    margin-bottom: 20px;   font-weight: bold;font-size: 1.6em;background: red;}
 
 .mg-lg {margin-top: 10px;    margin-bottom: 40px;}
 
@@ -248,7 +248,7 @@ p {font-size: 11px;}
 
 h2 {font-size: 1.5em;   color: black;}
 
-h3 {font-size: 15px;    text-transform: uppercase;    font-weight: 700;    color: #333333!important;}
+h3 {font-size: 15px;    text-transform: uppercase;    font-weight: 700;    color: black!important;}
 
 .icons {margin-bottom: 14px;    margin-top: 24px;}
 
