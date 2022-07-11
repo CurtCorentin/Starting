@@ -30,32 +30,33 @@
 </div>
 
 </header>
-<main>
+<main >
 
 
 				<form>
 					
 					<div class="form-group">
-						<label>Nom</label>
-						<input id="name" class="form-control" required />
+						<input id="name" class="form-control" required  aria-label="Nom" placeholder="Nom"/>
 					</div>
 
 					<div class="form-group">
-						<label>Adresse email</label>
-						<input id="email" class="form-control" type="email" required />
+						<input id="email" class="form-control" type="email" required  aria-label="Adresse email" placeholder="Adresse email"/>
 					</div>
 
 					<div class="form-group">
-						<label>Comment nous avez-vous connu ?</label>
-						<input class="form-control" type="email" required id="input_504" />
+						<input class="form-control" type="email" required id="input_504" aria-label="" placeholder="Comment nous avez-vous connu ?"/>
 					</div>
 
 					<div class="form-group">
-						<label>Brief de votre projet (Ajoutez autant de d&#233;tails que n&#233;cessaire)<br></label>
-						<textarea id="message" class="form-control" rows="4" cols="50" required></textarea>
+						<textarea id="message" class="form-control" rows="4" cols="50" required aria-label="Brief de votre projet (Ajoutez autant de d&#233;tails que n&#233;cessaire)" placeholder="Brief de votre projet (Ajoutez autant de d&#233;tails que n&#233;cessaire)"></textarea>
 					</div> 
 
-					<button class="bloc-button btn btn-lg btn-block cta-hero btn-atomic-tangerine" type="submit">Envoyer</button>
+					<div class="form-group">
+					<button class="bloc-button btn btn-lg btn-block cta-hero btn-atomic-tangerine" aria-label="Envoyer" type="submit">
+						 <div class="bse"> Envoyer</div>
+						</div>
+					</button>
+
 				</form>
 
 			
