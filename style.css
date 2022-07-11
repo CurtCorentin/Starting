@@ -65,7 +65,7 @@ textarea{resize: none;}
         width: 30px;
         transform: scale(1.1);}
     
-    
+    .footer{margin-top: 40px;}
     
     
 
@@ -177,7 +177,7 @@ position: relative;}
 
 .bloc-lg {padding-top: 100px ;padding-bottom: 100px;}
 
-.blg1 {height: 500px;}
+.blg1 {height: 450px;}
 
 
 
@@ -277,7 +277,7 @@ h3 {font-size: 15px;    text-transform: uppercase;    font-weight: 700;    color
 
 
 
-.bgc-atomic-tangerine {background-color: #F3976C;padding-top:20px;margin-top: 40px;padding-bottom: 20px;}
+.bgc-atomic-tangerine {background-color: #F3976C;padding-top:20px;padding-bottom: 20px;}
 
 .tc-white {color: white!important;}
 
@@ -308,4 +308,5 @@ h3 {font-size: 15px;    text-transform: uppercase;    font-weight: 700;    color
 .modal-body img{width: 70%;margin-left: 15%;margin-right: 15%;}
 .col-sm-4 li{padding-top: 14px;padding-bottom: 14px;}
 .col-sm-4 li a{padding-top: 14px;padding-bottom: 14px;}
+.blg1 {display: none;visibility: hidden;}
 }
