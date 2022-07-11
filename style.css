@@ -216,7 +216,7 @@ h3 {font-size: 15px;    text-transform: uppercase;    font-weight: 700;    color
 
 .icons {margin-bottom: 14px;    margin-top: 24px;}
 
-.white {color: #FFFFFF!important;}
+.white {color: white!important;}
 
 .portfolio-thumb {margin-bottom: 24px;}
 
@@ -228,17 +228,17 @@ h3 {font-size: 15px;    text-transform: uppercase;    font-weight: 700;    color
 
 .bold-link {font-weight: 900;    text-decoration: underline!important;}
 
-.bgc-white {background-color: #FFFFFF;}
+.bgc-white {background-color: white;}
 
 .bgc-atomic-tangerine {background-color: orange;}
 
-.tc-white {color: #FFFFFF!important;}
+.tc-white {color: white!important;}
 
-.btn-atomic-tangerine {background: orange;    color: #FFFFFF!important;}
+.btn-atomic-tangerine {background: orange;    color: white!important;}
 
-.btn-atomic-tangerine:hover {background: #c27956!important;    color: #FFFFFF!important;}
+.btn-atomic-tangerine:hover {background: #c27956!important;    color: white!important;}
 
-.ltc-white {color: #FFFFFF!important;}
+.ltc-white {color: white!important;}
 
 
 
