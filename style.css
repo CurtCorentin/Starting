@@ -4,7 +4,7 @@
     justify-content: center;
     margin-bottom: 30px;   margin-top: 30px;}
 
-header{padding-top: 20px;   padding-bottom: 20px;background: orange;}
+header{padding-top: 20px;   padding-bottom: 20px;background: #F3976C}
 
 
 
@@ -26,7 +26,31 @@ header{padding-top: 20px;   padding-bottom: 20px;background: orange;}
 
 .text-center{font-size: 1.3em;}
 
+
+.col-sm-4 li{color:white;}
+
+
+
+
+
+
+
+
+
+
 .form-group{width: 100%;background: red;}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -140,13 +164,15 @@ position: relative;}
 
 .bloc .container {padding-left: 0;    padding-right: 0;}
 
-.bloc-lg {padding: 100px 0px;}
+.bloc-lg {padding-top: 100px ;padding-bottom: 100px;}
+
+.blg1 {height: 500px;}
 
 .bloc-md {padding: 50px;}
 
 .b-parallax {background-attachment: fixed;}
 
-.d-bloc {color: rgba(255, 255, 255, .7);}
+.d-bloc {color: black;}
 
 .voffset {margin-top: 30px;}
 
@@ -205,7 +231,7 @@ h1,h2,
 h3,h4,
 h5,h6,
 p,label,
-.btn,a {font-family: "helvetica";    font-weight: 400;    color: #575757!important;}
+.btn,a {font-family: "helvetica";    font-weight: 400;    color: black!important;}
 
 .container {max-width: 1000px;}
 
@@ -240,19 +266,19 @@ h3 {font-size: 15px;    text-transform: uppercase;    font-weight: 700;    color
 
 .bgc-white {background-color: white;}
 
-.bgc-atomic-tangerine {background-color: orange;}
+.bgc-atomic-tangerine {background-color: #F3976C;}
 
 .tc-white {color: white!important;}
 
-.btn-atomic-tangerine {background: orange;    color: white!important;}
+.btn-atomic-tangerine {background: #F3976C;    color: black!important;}
 
 .btn-atomic-tangerine:hover {background: #c27956!important;    color: white!important;}
 
-.ltc-white {color: white!important;}
+.ltc-white {color: white!important;padding-top: 11px;padding-bottom: 11px;}
 
+.ltc-white:hover{color: #F3976C;}
 
-
-.icon-dark-slate-blue {color: #364577!important;    border-color: #364577!important;}
+.icon-dark-slate-blue {color: black!important;    border-color: #364577!important;}
 
 
 
