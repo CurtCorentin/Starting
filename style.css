@@ -306,6 +306,7 @@ h3 {font-size: 15px;    text-transform: uppercase;    font-weight: 700;    color
 @media screen and (max-width:768px) {
 .colonnes{flex-direction: column;margin-left: 15%;}   
 .modal-body img{width: 70%;margin-left: 15%;margin-right: 15%;}
+.col-sm-4{width: 80%;margin-left: 10%;margin-right: 10%;justify-content: baseline;padding: 0;}
 .col-sm-4 li{padding-top: 14px;padding-bottom: 14px;}
 .col-sm-4 li a{padding-top: 14px;padding-bottom: 14px;}
 .blg1 {display: none;visibility: hidden;}
