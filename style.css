@@ -5,7 +5,9 @@
 
 header{padding-top: 20px;   padding-bottom: 20px;background: #F3976C}
 
-
+.pap{font-size: 2em !important;
+    background: rgba(0, 0, 0, 0.221);
+    color:white !important;}
 
 .title img{height:100px;     width:100px; margin-right: 30px;}
 
