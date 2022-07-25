@@ -22,7 +22,7 @@ header{padding-top: 20px;   padding-bottom: 20px;background: #F3976C}
 
 .row-no-gutters{display: flex;justify-content: center;}
 
-.text-center{font-size: 1.3em;width: 50%;}
+.text-center{font-size: 1.3em;}
 
 .voffset-lg{margin-bottom: 30px;}
 
@@ -73,7 +73,7 @@ padding-top: 5px;padding-right: 5px;
 
 .fa-arrow-left:hover{color:white;background: black;}
     
-    .footer{margin-top: 40px;width: 100%;}
+    .footer{margin-top: 40px;}
     
     
 
@@ -258,7 +258,7 @@ p,label,
 
 .hero-bloc-text-sub {font-size: 36px;}
 
-p {font-size: 11px; max-width: 100%;}
+p {font-size: 11px;}
 
 .tight-width-whitespace {max-width: 600px;    margin: auto auto auto auto;}
 
@@ -285,7 +285,7 @@ h3 {font-size: 15px;    text-transform: uppercase;    font-weight: 700;    color
 
 
 
-.bgc-atomic-tangerine {background-color: #F3976C;padding-top:20px;padding-bottom: 20px;max-width: 100%;}
+.bgc-atomic-tangerine {background-color: #F3976C;padding-top:20px;padding-bottom: 20px;}
 
 .tc-white {color: white!important;}
 
